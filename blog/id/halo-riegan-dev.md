@@ -2,6 +2,7 @@
 title: Halo, riegan.dev
 description: Perkenalan singkat tentang arah website pribadi ini.
 slug: halo-riegan-dev
+translationKey: hello-riegan-dev
 date: 2026-04-29
 locale: id
 tags:

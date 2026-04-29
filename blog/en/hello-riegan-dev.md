@@ -2,6 +2,7 @@
 title: Hello, riegan.dev
 description: A short introduction to the direction of this personal website.
 slug: hello-riegan-dev
+translationKey: hello-riegan-dev
 date: 2026-04-29
 locale: en
 tags:
