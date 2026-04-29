@@ -1,0 +1,28 @@
+[
+  {
+    "id": "yogyakarta-placeholder",
+    "src": "",
+    "alt": "Photography placeholder reserved for a Yogyakarta gallery image",
+    "caption": {
+      "en": "Yogyakarta field note",
+      "id": "Catatan visual Yogyakarta"
+    },
+    "location": "Yogyakarta, Indonesia",
+    "year": 2026,
+    "tags": ["street", "placeholder"],
+    "placeholder": true
+  },
+  {
+    "id": "engineering-placeholder",
+    "src": "",
+    "alt": "Photography placeholder reserved for an engineering workspace image",
+    "caption": {
+      "en": "Workspace study",
+      "id": "Studi ruang kerja"
+    },
+    "location": "Indonesia",
+    "year": 2026,
+    "tags": ["workspace", "placeholder"],
+    "placeholder": true
+  }
+]

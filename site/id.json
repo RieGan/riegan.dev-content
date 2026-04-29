@@ -1,0 +1,47 @@
+{
+  "locale": "id",
+  "title": "riegan.dev",
+  "description": "Website pribadi Ganjar Muhammad Parikesit, Fullstack Software Engineer di Yogyakarta, Indonesia dengan latar belakang keamanan siber.",
+  "baseUrl": "https://riegan.dev",
+  "author": {
+    "name": "Ganjar Muhammad Parikesit",
+    "onlineName": "riegan",
+    "location": "Yogyakarta, Indonesia",
+    "occupation": "Fullstack Software Engineer",
+    "email": "riegan@riegan.dev",
+    "linkedin": "https://www.linkedin.com/in/riegan/",
+    "github": "https://github.com/RieGan"
+  },
+  "nav": {
+    "home": "Beranda",
+    "blog": "Blog",
+    "gallery": "Galeri",
+    "projects": "Proyek",
+    "awards": "Penghargaan",
+    "contact": "Kontak"
+  },
+  "home": {
+    "eyebrow": "riegan@production:~$ whoami",
+    "headline": "Fullstack Software Engineer dengan pola pikir security-first.",
+    "summary": "Saya membangun sistem web yang andal dengan React, TypeScript, Rust, tRPC, Tailwind CSS, dan Python, ditopang latar belakang keamanan siber dan pendekatan engineering yang pragmatis.",
+    "availability": "Terbuka untuk pekerjaan fullstack dan product engineering yang membutuhkan konteks keamanan."
+  },
+  "contact": {
+    "headline": "Bangun produk bersama engineer yang memahami produk, kode, dan konteks keamanan.",
+    "body": "Untuk hiring, kolaborasi, atau diskusi teknis, hubungi saya melalui email, LinkedIn, atau GitHub."
+  },
+  "seo": {
+    "homeTitle": "riegan - Fullstack Software Engineer",
+    "homeDescription": "Ganjar Muhammad Parikesit, dikenal online sebagai riegan, adalah Fullstack Software Engineer di Yogyakarta dengan latar belakang keamanan siber.",
+    "blogTitle": "Blog - riegan.dev",
+    "blogDescription": "Catatan engineering, pembelajaran keamanan siber, dan tulisan pengembangan perangkat lunak dari riegan.",
+    "galleryTitle": "Galeri Fotografi - riegan.dev",
+    "galleryDescription": "Galeri fotografi dan arsip visual dari riegan.",
+    "projectsTitle": "Proyek - riegan.dev",
+    "projectsDescription": "Pilihan proyek dan portofolio karya riegan.",
+    "awardsTitle": "Penghargaan - riegan.dev",
+    "awardsDescription": "Penghargaan, sertifikasi, dan rekognisi riegan.",
+    "contactTitle": "Kontak - riegan.dev",
+    "contactDescription": "Hubungi Ganjar Muhammad Parikesit untuk fullstack software engineering dan product work yang security-aware."
+  }
+}

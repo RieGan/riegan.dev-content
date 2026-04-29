@@ -1,0 +1,22 @@
+[
+  {
+    "name": "riegan.dev",
+    "slug": "riegan-dev",
+    "description": {
+      "en": "A static personal website built with React, Vite, TypeScript, Markdown content, and a security-aware editorial workflow.",
+      "id": "Website pribadi statis yang dibangun dengan React, Vite, TypeScript, konten Markdown, dan alur editorial yang security-aware."
+    },
+    "role": "Fullstack Software Engineer",
+    "year": 2026,
+    "status": "active",
+    "stack": ["React", "Vite", "TypeScript", "Tailwind CSS", "Markdown", "Docker"],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/RieGan/riegan.dev"
+      }
+    ],
+    "featured": true,
+    "sample": false
+  }
+]
