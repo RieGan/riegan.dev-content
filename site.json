@@ -1,0 +1,12 @@
+{
+  "title": "riegan.dev",
+  "description": "Sample portfolio content for Ganjar Muhammad Parikesit, a Fullstack Software Engineer in Yogyakarta.",
+  "baseUrl": "https://riegan.dev",
+  "author": "Ganjar Muhammad Parikesit",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/riegan/",
+    "github": "https://github.com/RieGan",
+    "email": "mailto:hello@riegan.dev"
+  },
+  "sample": true
+}

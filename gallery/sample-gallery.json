@@ -1,0 +1,14 @@
+[
+  {
+    "src": "/images/sample-gallery.jpg",
+    "alt": "Sample gallery placeholder with terminal-inspired abstract shapes",
+    "caption": "Sample gallery item",
+    "width": 1440,
+    "height": 960,
+    "metadata": {
+      "location": "Yogyakarta",
+      "year": 2026,
+      "sample": true
+    }
+  }
+]

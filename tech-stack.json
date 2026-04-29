@@ -1,0 +1,43 @@
+{
+  "frontend": [
+    {
+      "name": "React",
+      "level": "advanced",
+      "description": "Sample frontend framework entry.",
+      "url": "https://react.dev"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Node.js",
+      "level": "advanced",
+      "description": "Sample backend runtime entry.",
+      "url": "https://nodejs.org"
+    }
+  ],
+  "database": [
+    {
+      "name": "PostgreSQL",
+      "level": "intermediate",
+      "description": "Sample relational database entry.",
+      "url": "https://www.postgresql.org"
+    }
+  ],
+  "devops": [
+    {
+      "name": "Docker",
+      "level": "intermediate",
+      "description": "Sample container tooling entry.",
+      "url": "https://www.docker.com"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "level": "advanced",
+      "description": "Sample version-control tooling entry.",
+      "url": "https://git-scm.com"
+    }
+  ],
+  "sample": true
+}
