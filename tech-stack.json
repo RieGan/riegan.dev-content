@@ -3,41 +3,50 @@
     {
       "name": "React",
       "level": "advanced",
-      "description": "Sample frontend framework entry.",
+      "description": "Primary UI framework for static and interactive web interfaces.",
       "url": "https://react.dev"
+    },
+    {
+      "name": "Vite",
+      "level": "advanced",
+      "description": "Fast frontend tooling for static site builds and local development.",
+      "url": "https://vite.dev"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "advanced",
+      "description": "Utility-first styling system used for fast, maintainable interface work.",
+      "url": "https://tailwindcss.com"
     }
   ],
   "backend": [
     {
-      "name": "Node.js",
+      "name": "TypeScript",
       "level": "advanced",
-      "description": "Sample backend runtime entry.",
-      "url": "https://nodejs.org"
+      "description": "Main language for fullstack application contracts and maintainable web systems.",
+      "url": "https://www.typescriptlang.org"
+    },
+    {
+      "name": "tRPC",
+      "level": "advanced",
+      "description": "Type-safe API layer for end-to-end TypeScript applications.",
+      "url": "https://trpc.io"
     }
   ],
-  "database": [
+  "systems": [
     {
-      "name": "PostgreSQL",
+      "name": "Rust",
       "level": "intermediate",
-      "description": "Sample relational database entry.",
-      "url": "https://www.postgresql.org"
-    }
-  ],
-  "devops": [
-    {
-      "name": "Docker",
-      "level": "intermediate",
-      "description": "Sample container tooling entry.",
-      "url": "https://www.docker.com"
+      "description": "Systems programming language for reliable, performance-sensitive tooling.",
+      "url": "https://www.rust-lang.org"
     }
   ],
   "tools": [
     {
-      "name": "Git",
+      "name": "Python",
       "level": "advanced",
-      "description": "Sample version-control tooling entry.",
-      "url": "https://git-scm.com"
+      "description": "Automation, scripting, data handling, and security-oriented tooling.",
+      "url": "https://www.python.org"
     }
-  ],
-  "sample": true
+  ]
 }
