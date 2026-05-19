@@ -1,0 +1,252 @@
+{
+  "profile": {
+    "name": "Ganjar Muhammad Parikesit",
+    "handle": "riegan",
+    "role": "Fullstack Software Engineer",
+    "location": "Yogyakarta, Indonesia",
+    "summary": "Fullstack Software Engineer building frontend, backend, internal tooling, and product platforms.",
+    "cybersecurity": "Software assurance background with a focus on careful implementation tradeoffs.",
+    "availability": "Open to engineering projects and consultation around software engineering or software security."
+  },
+  "seo": {
+    "home": {
+      "title": "Ganjar Muhammad Parikesit - Fullstack Software Engineer",
+      "description": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit."
+    },
+    "blog": {
+      "title": "Writing - riegan.dev",
+      "description": "Notes, updates, and longer writing from Ganjar Muhammad Parikesit."
+    },
+    "projects": {
+      "title": "Selected Work - riegan.dev",
+      "description": "Selected work, systems, and projects by Ganjar Muhammad Parikesit."
+    },
+    "gallery": {
+      "title": "Gallery - riegan.dev",
+      "description": "Photos, visual notes, and selected moments."
+    },
+    "awards": {
+      "title": "Awards - riegan.dev",
+      "description": "Selected awards and recognition for Ganjar Muhammad Parikesit."
+    },
+    "contact": {
+      "title": "Contact - riegan.dev",
+      "description": "Ways to contact Ganjar Muhammad Parikesit for projects, consultation, or collaboration."
+    }
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Projects",
+      "href": "/projects"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Awards",
+      "href": "/awards"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/RieGan",
+      "external": true
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/riegan",
+      "external": true
+    },
+    {
+      "label": "Email",
+      "href": "mailto:riegan@riegan.dev",
+      "external": true
+    }
+  ],
+  "stack": [
+    {
+      "name": "React",
+      "category": "frontend",
+      "summary": "Component-driven interfaces for product and platform work."
+    },
+    {
+      "name": "React Native",
+      "category": "frontend",
+      "summary": "Cross-platform app development and product UI revamps."
+    },
+    {
+      "name": "Vite",
+      "category": "tooling",
+      "summary": "Fast build tooling for the static React site."
+    },
+    {
+      "name": "TypeScript",
+      "category": "language",
+      "summary": "Typed application and content-support scripts."
+    },
+    {
+      "name": "Rust",
+      "category": "language",
+      "summary": "Backend-for-frontend and systems-oriented service work."
+    },
+    {
+      "name": "tRPC",
+      "category": "backend",
+      "summary": "Type-safe API patterns for application work."
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "frontend",
+      "summary": "Utility-first styling for the planned visual system."
+    },
+    {
+      "name": "Python",
+      "category": "language",
+      "summary": "Automation, scripting, and backend work."
+    },
+    {
+      "name": "Go",
+      "category": "backend",
+      "summary": "Backend services and high-throughput internal tooling."
+    },
+    {
+      "name": "MySQL",
+      "category": "database",
+      "summary": "Application data modeling, migration work, and reporting queries."
+    },
+    {
+      "name": "Postgres",
+      "category": "database",
+      "summary": "Application data modeling and service-backed product features."
+    }
+  ],
+  "terminal": {
+    "prompt": "riegan@riegan.dev:~$",
+    "welcome": "session initialized. type `help` to list available commands.",
+    "initialDirectory": "/",
+    "commands": {
+      "help": {
+        "summary": "Show available commands",
+        "response": "Available commands: help, whoami, stack, projects, blog, gallery, awards, contact, pwd, ls, cd, cat, echo, open, clear."
+      },
+      "whoami": {
+        "summary": "Show profile summary",
+        "response": "Ganjar Muhammad Parikesit / riegan. Fullstack Software Engineer based in Yogyakarta, Indonesia."
+      },
+      "stack": {
+        "summary": "Show current tools and technologies",
+        "response": "Current stack: React, React Native, TypeScript, Rust, Fastify, tRPC, Python, Go, MySQL, Postgres, and Tailwind CSS."
+      },
+      "projects": {
+        "summary": "Show project summary and route",
+        "response": "Project entries include Janaprotrack, Ruangguru product work, and internal work done as a Ruangguru engineer. Open /projects for the portfolio index."
+      },
+      "blog": {
+        "summary": "Show recent posts and route",
+        "response": "Read published notes at /blog. Draft posts stay out of public route lists and feeds."
+      },
+      "gallery": {
+        "summary": "Show gallery summary and route",
+        "response": "The gallery is metadata-ready with placeholders until real images are added."
+      },
+      "awards": {
+        "summary": "Show awards summary and route",
+        "response": "Awards include CHIEF Award, CTF, and Gemastik recognition. Open /awards for the full list."
+      },
+      "contact": {
+        "summary": "Show contact links",
+        "response": "Email: riegan@riegan.dev. GitHub: https://github.com/RieGan. LinkedIn: https://www.linkedin.com/in/riegan."
+      },
+      "pwd": {
+        "summary": "Print current directory"
+      },
+      "ls": {
+        "summary": "List files, supports -a and -l"
+      },
+      "cd": {
+        "summary": "Change directory, supports ~, .., and -"
+      },
+      "cat": {
+        "summary": "Print virtual file contents"
+      },
+      "echo": {
+        "summary": "Print text"
+      },
+      "open": {
+        "summary": "Open a known route"
+      },
+      "clear": {
+        "summary": "Clear terminal output"
+      }
+    },
+    "filesystem": {
+      "/": {
+        "type": "directory",
+        "title": "Root",
+        "children": [
+          "/profile",
+          "/stack",
+          "/projects",
+          "/blog",
+          "/gallery",
+          "/awards",
+          "/contact"
+        ]
+      },
+      "/profile": {
+        "type": "file",
+        "title": "Profile",
+        "summary": "Ganjar Muhammad Parikesit / riegan. Fullstack Software Engineer in Yogyakarta, Indonesia, working across frontend, backend, internal tools, and product platforms."
+      },
+      "/stack": {
+        "type": "file",
+        "title": "Stack",
+        "summary": "React, React Native, TypeScript, Rust, Fastify, tRPC, Python, Go, MySQL, Postgres."
+      },
+      "/projects": {
+        "type": "route",
+        "title": "Selected Work",
+        "summary": "Selected work, systems, and projects.",
+        "route": "/projects"
+      },
+      "/blog": {
+        "type": "route",
+        "title": "Writing",
+        "summary": "Notes, updates, and longer writing.",
+        "route": "/blog"
+      },
+      "/gallery": {
+        "type": "route",
+        "title": "Gallery",
+        "summary": "Photos, visual notes, and selected moments.",
+        "route": "/gallery"
+      },
+      "/awards": {
+        "type": "route",
+        "title": "Awards",
+        "summary": "Selected awards and recognition.",
+        "route": "/awards"
+      },
+      "/contact": {
+        "type": "route",
+        "title": "Contact",
+        "summary": "Contact links and collaboration details.",
+        "route": "/contact"
+      }
+    }
+  }
+}

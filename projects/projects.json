@@ -1,22 +1,136 @@
-[
-  {
-    "name": "riegan.dev",
-    "slug": "riegan-dev",
-    "description": {
-      "en": "A static personal website built with React, Vite, TypeScript, Markdown content, and a security-aware editorial workflow.",
-      "id": "Website pribadi statis yang dibangun dengan React, Vite, TypeScript, konten Markdown, dan alur editorial yang security-aware."
-    },
-    "role": "Fullstack Software Engineer",
-    "year": 2026,
-    "status": "active",
-    "stack": ["React", "Vite", "TypeScript", "Tailwind CSS", "Markdown", "Docker"],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/RieGan/riegan.dev"
+{
+  "projects": [
+    {
+      "name": "Janaprotrack",
+      "description": "Worked from Feb 2020 to Feb 2021 on frontend implementation, backend API design, and API architecture for Universitas Janabadra's SKPI portfolio tracking system.",
+      "status": "production",
+      "stack": [
+        "React",
+        "Material Dashboard React",
+        "REST API",
+        "Portfolio Workflow",
+        "SKPI"
+      ],
+      "links": [
+        {
+          "label": "Website",
+          "href": "https://janaprotrack.janabadra.ac.id/",
+          "external": true
+        }
+      ],
+      "image": {
+        "alt": "Janaprotrack professional tracker for SKPI portfolio workflows"
       }
-    ],
-    "featured": true,
-    "sample": false
-  }
-]
+    },
+    {
+      "name": "Airis",
+      "description": "Ruangguru product work. Contributed as a Ruangguru software engineer on the AI platform frontend, core chat system, animation system, and shared product codebase.",
+      "status": "ruangguru",
+      "stack": [
+        "React Native",
+        "Tamagui",
+        "Firebase",
+        "Firestore",
+        "Framer Motion"
+      ],
+      "links": [
+        {
+          "label": "Website",
+          "href": "https://ai.ruangguru.com/",
+          "external": true
+        }
+      ],
+      "image": {
+        "alt": "Airis, a Ruangguru product, with engineering contribution by Ganjar Muhammad Parikesit"
+      }
+    },
+    {
+      "name": "Roboguru",
+      "description": "Ruangguru product work. Built the gamification system and contributed to product maintenance as a Ruangguru software engineer.",
+      "status": "ruangguru",
+      "stack": ["React", "Product Engineering", "Gamification"],
+      "links": [
+        {
+          "label": "Website",
+          "href": "https://roboguru.com/",
+          "external": true
+        }
+      ],
+      "image": {
+        "alt": "Roboguru, a Ruangguru product, with engineering contribution by Ganjar Muhammad Parikesit"
+      }
+    },
+    {
+      "name": "CRM Platform",
+      "description": "Work done as a Ruangguru engineer: contributed to CRM platform modernization, backend services, analytics surfaces, typed API contracts, and side-by-side migration from legacy workflows.",
+      "status": "ruangguru",
+      "stack": [
+        "React",
+        "Rust",
+        "Fastify",
+        "tRPC",
+        "Drizzle",
+        "MySQL",
+        "Postgres",
+        "Apache Doris"
+      ],
+      "links": [],
+      "image": {
+        "alt": "Internal CRM platform work done as a Ruangguru engineer"
+      }
+    },
+    {
+      "name": "Chathub",
+      "description": "Work done as a Ruangguru engineer: contributed to agent-assistance chat workflows, realtime message handling, multi-tenant support, Firestore optimization, and platform refactors.",
+      "status": "ruangguru",
+      "stack": ["React Native", "Tamagui", "Firebase", "Firestore"],
+      "links": [],
+      "image": {
+        "alt": "Internal Chathub platform work done as a Ruangguru engineer"
+      }
+    },
+    {
+      "name": "Sales Tooling",
+      "description": "Work done as a Ruangguru engineer: built and maintained sales tooling workflows, backend integrations, blaster, autodial, CRM assignment, activity status integration, and operational UI flows.",
+      "status": "ruangguru",
+      "stack": ["React", "SIP", "WebRTC", "CRM Integration"],
+      "links": [],
+      "image": {
+        "alt": "Internal sales tooling work done as a Ruangguru engineer"
+      }
+    },
+    {
+      "name": "Kampus Merdeka Platforms",
+      "description": "Work done as a Ruangguru engineer: owned Learning Hub and Grader UI for Kampus Merdeka Batch 3, covering learning delivery, assignment submission, grading, reporting, and deployment.",
+      "status": "ruangguru",
+      "stack": [
+        "React",
+        "Remix",
+        "Next.js",
+        "Chakra UI",
+        "Kubernetes",
+        "MySQL"
+      ],
+      "links": [],
+      "image": {
+        "alt": "Internal education platform work done as a Ruangguru engineer"
+      }
+    },
+    {
+      "name": "Skill Academy App Revamp",
+      "description": "Work done as a Ruangguru engineer: helped revamp the Skill Academy app to React Native with a new UI and shared cross-platform implementation patterns.",
+      "status": "ruangguru",
+      "stack": ["React Native", "Tamagui", "Next.js", "Product Engineering"],
+      "links": [
+        {
+          "label": "Website",
+          "href": "https://skillacademy.com/",
+          "external": true
+        }
+      ],
+      "image": {
+        "alt": "Skill Academy app revamp work done as a Ruangguru engineer"
+      }
+    }
+  ]
+}

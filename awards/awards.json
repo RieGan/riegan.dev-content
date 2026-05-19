@@ -1,1 +1,52 @@
-[]
+{
+  "awards": [
+    {
+      "title": "CHIEF Award Winner",
+      "issuer": "Ruangguru",
+      "date": "2022",
+      "description": "Recognition received during Ruangguru work on Kampus Merdeka platforms and program-level engineering contributions."
+    },
+    {
+      "title": "Capture the Flag KKS TNI AD 2021",
+      "issuer": "Pusat Sandi dan Siber TNI Angkatan Darat",
+      "date": "Sep 2021",
+      "description": "1st Honorable Mention in Capture the Flag KKS TNI AD 2021."
+    },
+    {
+      "title": "Capture the Flag Technofair 8.0",
+      "issuer": "FIKTI Universitas Gunadarma",
+      "date": "Apr 2021",
+      "description": "3rd place in Capture the Flag Technofair 8.0."
+    },
+    {
+      "title": "Capture the Flag Arkavidia 7.0",
+      "issuer": "HMIF STEI Institut Teknologi Bandung",
+      "date": "Mar 2021",
+      "description": "3rd place in Capture the Flag Arkavidia 7.0."
+    },
+    {
+      "title": "Capture the Flag Unity #8",
+      "issuer": "Universitas Negeri Yogyakarta",
+      "date": "Aug 2020",
+      "description": "3rd place in Capture the Flag Unity #8."
+    },
+    {
+      "title": "Capture the Flag Hology 2.0",
+      "issuer": "Universitas Brawijaya",
+      "date": "Oct 2019",
+      "description": "3rd place in Capture the Flag Hology 2.0."
+    },
+    {
+      "title": "Cyber Security Competition Gemastik XII",
+      "issuer": "Kementerian Riset, Teknologi, dan Pendidikan Tinggi Republik Indonesia",
+      "date": "Oct 2019",
+      "description": "Silver Medalist in the Cyber Security Competition at Gemastik XII."
+    },
+    {
+      "title": "CTF One Week with Informatic Cyber Competition 2019",
+      "issuer": "Sekolah Tinggi Teknologi Adi Sucipto",
+      "date": "Apr 2019",
+      "description": "1st place in CTF One Week with Informatic Cyber Competition 2019."
+    }
+  ]
+}
