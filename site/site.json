@@ -14,24 +14,24 @@
       "description": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit."
     },
     "blog": {
-      "title": "Writing - riegan.dev",
-      "description": "Notes, updates, and longer writing from Ganjar Muhammad Parikesit."
+      "title": "Engineering Notes - riegan.dev",
+      "description": "Practical notes on software, systems, and the tradeoffs behind shipped work by Ganjar Muhammad Parikesit."
     },
     "projects": {
-      "title": "Selected Work - riegan.dev",
-      "description": "Selected work, systems, and projects by Ganjar Muhammad Parikesit."
+      "title": "Built Work - riegan.dev",
+      "description": "Product systems, internal tools, and implementation details from real engineering work by Ganjar Muhammad Parikesit."
     },
     "gallery": {
-      "title": "Gallery - riegan.dev",
-      "description": "Photos, visual notes, and selected moments."
+      "title": "Visual Fieldnotes - riegan.dev",
+      "description": "Photos and visual records from the places, events, and small details around the work."
     },
     "awards": {
-      "title": "Awards - riegan.dev",
-      "description": "Selected awards and recognition for Ganjar Muhammad Parikesit."
+      "title": "Awards & Milestones - riegan.dev",
+      "description": "Awards, certifications, and competition results earned across engineering and security work."
     },
     "contact": {
-      "title": "Contact - riegan.dev",
-      "description": "Ways to contact Ganjar Muhammad Parikesit for projects, consultation, or collaboration."
+      "title": "Start a Conversation - riegan.dev",
+      "description": "Contact Ganjar Muhammad Parikesit for projects, consultation, collaboration, or engineering conversations."
     }
   },
   "nav": [
@@ -219,32 +219,32 @@
       },
       "/projects": {
         "type": "route",
-        "title": "Selected Work",
-        "summary": "Selected work, systems, and projects.",
+        "title": "Built Work",
+        "summary": "Product systems, internal tools, and implementation details.",
         "route": "/projects"
       },
       "/blog": {
         "type": "route",
-        "title": "Writing",
-        "summary": "Notes, updates, and longer writing.",
+        "title": "Engineering Notes",
+        "summary": "Practical notes on software, systems, and tradeoffs.",
         "route": "/blog"
       },
       "/gallery": {
         "type": "route",
-        "title": "Gallery",
-        "summary": "Photos, visual notes, and selected moments.",
+        "title": "Visual Fieldnotes",
+        "summary": "Photos and visual records from places, events, and details.",
         "route": "/gallery"
       },
       "/awards": {
         "type": "route",
-        "title": "Awards",
-        "summary": "Selected awards and recognition.",
+        "title": "Awards & Milestones",
+        "summary": "Awards, certifications, and competition results.",
         "route": "/awards"
       },
       "/contact": {
         "type": "route",
-        "title": "Contact",
-        "summary": "Contact links and collaboration details.",
+        "title": "Start a Conversation",
+        "summary": "Contact links for projects, consultation, and collaboration.",
         "route": "/contact"
       }
     }
