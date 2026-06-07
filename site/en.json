@@ -1,7 +1,7 @@
 {
   "locale": "en",
   "title": "riegan.dev",
-  "description": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit.",
+  "description": "Profile, portfolio, writing, and contact information for Ganjar Muhammad Parikesit.",
   "baseUrl": "https://riegan.dev",
   "author": {
     "name": "Ganjar Muhammad Parikesit",
@@ -24,24 +24,24 @@
     "eyebrow": "riegan@production:~$ whoami",
     "headline": "Fullstack Software Engineer with a security-first mindset.",
     "summary": "I build reliable web systems across React, TypeScript, Rust, tRPC, Tailwind CSS, and Python, shaped by a cybersecurity background and a preference for pragmatic engineering.",
-    "availability": "Open to engineering projects and consultation around software engineering or software security."
+    "availability": "Open to engineering projects and consultation around software engineering or cybersecurity."
   },
   "contact": {
     "headline": "Start a conversation about projects, consultation, collaboration, or engineering work.",
-    "body": "Use email for direct requests, or find the work trail on GitHub and LinkedIn."
+    "body": "Use email for direct requests, or follow my professional trail on GitHub and LinkedIn."
   },
   "seo": {
     "homeTitle": "Ganjar Muhammad Parikesit - Fullstack Software Engineer",
-    "homeDescription": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit.",
-    "blogTitle": "Engineering Notes - riegan.dev",
-    "blogDescription": "Practical notes on software, systems, and the tradeoffs behind shipped work by Ganjar Muhammad Parikesit.",
-    "galleryTitle": "Visual Fieldnotes - riegan.dev",
-    "galleryDescription": "Photos and visual records from the places, events, and small details around the work.",
-    "projectsTitle": "Built Work - riegan.dev",
-    "projectsDescription": "Product systems, internal tools, and implementation details from real engineering work by Ganjar Muhammad Parikesit.",
+    "homeDescription": "Profile, portfolio, writing, and contact information for Ganjar Muhammad Parikesit.",
+    "blogTitle": "Blog & Writing - riegan.dev",
+    "blogDescription": "A collection of writing, opinions, and everyday stories by Ganjar Muhammad Parikesit.",
+    "galleryTitle": "Photo Gallery - riegan.dev",
+    "galleryDescription": "A collection of photos capturing everyday moments, places, and visual snapshots.",
+    "projectsTitle": "Project Portfolio - riegan.dev",
+    "projectsDescription": "Product systems, internal tools, and implementation details from real projects by Ganjar Muhammad Parikesit.",
     "awardsTitle": "Awards & Milestones - riegan.dev",
-    "awardsDescription": "Awards, certifications, and competition results earned across engineering and security work.",
-    "contactTitle": "Start a Conversation - riegan.dev",
-    "contactDescription": "Contact Ganjar Muhammad Parikesit for projects, consultation, collaboration, or engineering conversations."
+    "awardsDescription": "Awards, certifications, and competition results earned across software engineering and cybersecurity.",
+    "contactTitle": "Contact Me - riegan.dev",
+    "contactDescription": "Contact Ganjar Muhammad Parikesit for projects, consultation, collaboration, or technical discussions."
   }
 }

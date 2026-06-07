@@ -5,33 +5,33 @@
     "role": "Fullstack Software Engineer",
     "location": "Yogyakarta, Indonesia",
     "summary": "Fullstack Software Engineer building frontend, backend, internal tooling, and product platforms.",
-    "cybersecurity": "Software assurance background with a focus on careful implementation tradeoffs.",
-    "availability": "Open to engineering projects and consultation around software engineering or software security."
+    "cybersecurity": "Software assurance background with a focus on pragmatic and secure implementation tradeoffs.",
+    "availability": "Open to engineering projects and consultation around software engineering or cybersecurity."
   },
   "seo": {
     "home": {
       "title": "Ganjar Muhammad Parikesit - Fullstack Software Engineer",
-      "description": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit."
+      "description": "Profile, portfolio, writing, and contact information for Ganjar Muhammad Parikesit."
     },
     "blog": {
-      "title": "Engineering Notes - riegan.dev",
-      "description": "Practical notes on software, systems, and the tradeoffs behind shipped work by Ganjar Muhammad Parikesit."
+      "title": "Blog & Writing - riegan.dev",
+      "description": "A collection of writing, opinions, and everyday stories by Ganjar Muhammad Parikesit."
     },
     "projects": {
-      "title": "Built Work - riegan.dev",
-      "description": "Product systems, internal tools, and implementation details from real engineering work by Ganjar Muhammad Parikesit."
+      "title": "Project Portfolio - riegan.dev",
+      "description": "Product systems, internal tools, and implementation details from real projects by Ganjar Muhammad Parikesit."
     },
     "gallery": {
-      "title": "Visual Fieldnotes - riegan.dev",
-      "description": "Photos and visual records from the places, events, and small details around the work."
+      "title": "Photo Gallery - riegan.dev",
+      "description": "A collection of photos capturing everyday moments, places, and visual snapshots."
     },
     "awards": {
       "title": "Awards & Milestones - riegan.dev",
-      "description": "Awards, certifications, and competition results earned across engineering and security work."
+      "description": "A collection of awards, certifications, and competition track records across software engineering and cybersecurity."
     },
     "contact": {
-      "title": "Start a Conversation - riegan.dev",
-      "description": "Contact Ganjar Muhammad Parikesit for projects, consultation, collaboration, or engineering conversations."
+      "title": "Contact Me - riegan.dev",
+      "description": "Contact Ganjar Muhammad Parikesit for projects, consultation, collaboration, or technical discussions."
     }
   },
   "nav": [
@@ -81,7 +81,7 @@
     {
       "name": "React",
       "category": "frontend",
-      "summary": "Component-driven interfaces for product and platform work."
+      "summary": "Building component-driven interfaces for various products and platforms."
     },
     {
       "name": "React Native",
@@ -91,52 +91,52 @@
     {
       "name": "Vite",
       "category": "tooling",
-      "summary": "Fast build tooling for the static React site."
+      "summary": "High-performance build tooling for the static React site."
     },
     {
       "name": "TypeScript",
       "category": "language",
-      "summary": "Typed application and content-support scripts."
+      "summary": "Type-safe application development and content-support scripts."
     },
     {
       "name": "Rust",
       "category": "language",
-      "summary": "Backend-for-frontend and systems-oriented service work."
+      "summary": "Systems-oriented service development and backend-for-frontend."
     },
     {
       "name": "tRPC",
       "category": "backend",
-      "summary": "Type-safe API patterns for application work."
+      "summary": "Type-safe API patterns for application development."
     },
     {
       "name": "Tailwind CSS",
       "category": "frontend",
-      "summary": "Utility-first styling for the planned visual system."
+      "summary": "Utility-first styling for building visual design systems."
     },
     {
       "name": "Python",
       "category": "language",
-      "summary": "Automation, scripting, and backend work."
+      "summary": "Scripting, automation, and backend service development."
     },
     {
       "name": "Go",
       "category": "backend",
-      "summary": "Backend services and high-throughput internal tooling."
+      "summary": "High-throughput backend services and internal tooling."
     },
     {
       "name": "MySQL",
       "category": "database",
-      "summary": "Application data modeling, migration work, and reporting queries."
+      "summary": "Application data modeling, database migration work, and reporting queries."
     },
     {
       "name": "Postgres",
       "category": "database",
-      "summary": "Application data modeling and service-backed product features."
+      "summary": "Data modeling and database support for application features."
     }
   ],
   "terminal": {
     "prompt": "riegan@riegan.dev:~$",
-    "welcome": "session initialized. type `help` to list available commands.",
+    "welcome": "Session initialized. Type `help` to list available commands.",
     "initialDirectory": "/",
     "commands": {
       "help": {
@@ -152,19 +152,19 @@
         "response": "Current stack: React, React Native, TypeScript, Rust, Fastify, tRPC, Python, Go, MySQL, Postgres, and Tailwind CSS."
       },
       "projects": {
-        "summary": "Show project summary and route",
-        "response": "Project entries include Janaprotrack, Ruangguru product work, and internal work done as a Ruangguru engineer. Open /projects for the portfolio index."
+        "summary": "Show project summary and routes",
+        "response": "Project entries include Janaprotrack, Ruangguru product work, and internal tooling from my time as a Ruangguru engineer. Open /projects to view the portfolio index."
       },
       "blog": {
-        "summary": "Show recent posts and route",
-        "response": "Read published notes at /blog. Draft posts stay out of public route lists and feeds."
+        "summary": "Show recent posts and routes",
+        "response": "Read published posts at /blog. Drafts stay out of the public lists and feeds."
       },
       "gallery": {
-        "summary": "Show gallery summary and route",
-        "response": "The gallery is metadata-ready with placeholders until real images are added."
+        "summary": "Show gallery summary and routes",
+        "response": "The gallery is metadata-ready with placeholders, waiting for real photos to be uploaded."
       },
       "awards": {
-        "summary": "Show awards summary and route",
+        "summary": "Show awards summary and routes",
         "response": "Awards include CHIEF Award, CTF, and Gemastik recognition. Open /awards for the full list."
       },
       "contact": {
@@ -175,7 +175,7 @@
         "summary": "Print current directory"
       },
       "ls": {
-        "summary": "List files, supports -a and -l"
+        "summary": "List files, supports -a and -l arguments"
       },
       "cd": {
         "summary": "Change directory, supports ~, .., and -"
@@ -184,7 +184,7 @@
         "summary": "Print virtual file contents"
       },
       "echo": {
-        "summary": "Print text"
+        "summary": "Print text to the screen"
       },
       "open": {
         "summary": "Open a known route"
@@ -210,7 +210,7 @@
       "/profile": {
         "type": "file",
         "title": "Profile",
-        "summary": "Ganjar Muhammad Parikesit / riegan. Fullstack Software Engineer in Yogyakarta, Indonesia, working across frontend, backend, internal tools, and product platforms."
+        "summary": "Ganjar Muhammad Parikesit / riegan. Fullstack Software Engineer in Yogyakarta, Indonesia, focusing on frontend, backend, internal tools, and product platforms."
       },
       "/stack": {
         "type": "file",
@@ -219,20 +219,20 @@
       },
       "/projects": {
         "type": "route",
-        "title": "Built Work",
+        "title": "Project Portfolio",
         "summary": "Product systems, internal tools, and implementation details.",
         "route": "/projects"
       },
       "/blog": {
         "type": "route",
-        "title": "Engineering Notes",
-        "summary": "Practical notes on software, systems, and tradeoffs.",
+        "title": "Blog & Writing",
+        "summary": "A collection of writing, opinions, and everyday stories.",
         "route": "/blog"
       },
       "/gallery": {
         "type": "route",
-        "title": "Visual Fieldnotes",
-        "summary": "Photos and visual records from places, events, and details.",
+        "title": "Photo Gallery",
+        "summary": "A collection of photos capturing everyday moments, places, and visual snapshots.",
         "route": "/gallery"
       },
       "/awards": {
@@ -243,7 +243,7 @@
       },
       "/contact": {
         "type": "route",
-        "title": "Start a Conversation",
+        "title": "Contact Me",
         "summary": "Contact links for projects, consultation, and collaboration.",
         "route": "/contact"
       }
