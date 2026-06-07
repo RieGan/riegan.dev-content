@@ -1,7 +1,7 @@
 {
   "locale": "en",
   "title": "riegan.dev",
-  "description": "Personal website of Ganjar Muhammad Parikesit, a Fullstack Software Engineer in Yogyakarta, Indonesia with a cybersecurity background.",
+  "description": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit.",
   "baseUrl": "https://riegan.dev",
   "author": {
     "name": "Ganjar Muhammad Parikesit",
@@ -24,24 +24,24 @@
     "eyebrow": "riegan@production:~$ whoami",
     "headline": "Fullstack Software Engineer with a security-first mindset.",
     "summary": "I build reliable web systems across React, TypeScript, Rust, tRPC, Tailwind CSS, and Python, shaped by a cybersecurity background and a preference for pragmatic engineering.",
-    "availability": "Open to selected fullstack and security-aware product engineering work."
+    "availability": "Open to engineering projects and consultation around software engineering or software security."
   },
   "contact": {
-    "headline": "Build with someone who can move across product, code, and security context.",
-    "body": "For hiring, collaboration, or technical conversations, email me directly or reach me through LinkedIn and GitHub."
+    "headline": "Start a conversation about projects, consultation, collaboration, or engineering work.",
+    "body": "Use email for direct requests, or find the work trail on GitHub and LinkedIn."
   },
   "seo": {
-    "homeTitle": "riegan - Fullstack Software Engineer",
-    "homeDescription": "Ganjar Muhammad Parikesit, known online as riegan, is a Fullstack Software Engineer in Yogyakarta, Indonesia with a cybersecurity background.",
-    "blogTitle": "Blog - riegan.dev",
-    "blogDescription": "Engineering notes, cybersecurity learning, and software development writing from riegan.",
-    "galleryTitle": "Photography Gallery - riegan.dev",
-    "galleryDescription": "Photography gallery and visual archive from riegan.",
-    "projectsTitle": "Projects - riegan.dev",
-    "projectsDescription": "Selected projects and portfolio work by riegan.",
-    "awardsTitle": "Awards - riegan.dev",
-    "awardsDescription": "Awards, certifications, and recognitions by riegan.",
-    "contactTitle": "Contact - riegan.dev",
-    "contactDescription": "Contact Ganjar Muhammad Parikesit for fullstack software engineering and security-aware product work."
+    "homeTitle": "Ganjar Muhammad Parikesit - Fullstack Software Engineer",
+    "homeDescription": "Profile, work, writing, and contact information for Ganjar Muhammad Parikesit.",
+    "blogTitle": "Engineering Notes - riegan.dev",
+    "blogDescription": "Practical notes on software, systems, and the tradeoffs behind shipped work by Ganjar Muhammad Parikesit.",
+    "galleryTitle": "Visual Fieldnotes - riegan.dev",
+    "galleryDescription": "Photos and visual records from the places, events, and small details around the work.",
+    "projectsTitle": "Built Work - riegan.dev",
+    "projectsDescription": "Product systems, internal tools, and implementation details from real engineering work by Ganjar Muhammad Parikesit.",
+    "awardsTitle": "Awards & Milestones - riegan.dev",
+    "awardsDescription": "Awards, certifications, and competition results earned across engineering and security work.",
+    "contactTitle": "Start a Conversation - riegan.dev",
+    "contactDescription": "Contact Ganjar Muhammad Parikesit for projects, consultation, collaboration, or engineering conversations."
   }
 }
